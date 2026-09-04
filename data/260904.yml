@@ -7,7 +7,7 @@ about:
   head: 88eaa80
   archived: false
   latestVersion: v1.5.0
-  collectedAt: 2026-09-04T19:33:28Z
+  collectedAt: 2026-09-04T21:03:30Z
 timeline:
   created: 2018-01-28
   lastCommit: 2026-01-16
@@ -83,6 +83,39 @@ total:
   openIssue: 12
   commit: 498
 ---
+path: /home/runner/.x-repo/github.com/github/git-sizer
+collectedAt: 2026-09-04T21:03:31Z
+loc:
+  Go:
+    code: 4866
+    comments: 787
+    blanks: 979
+    files: 40
+  Sh:
+    code: 80
+    comments: 6
+    blanks: 14
+    files: 2
+  Makefile:
+    code: 52
+    comments: 13
+    blanks: 16
+    files: 1
+  Bash:
+    code: 20
+    comments: 4
+    blanks: 13
+    files: 4
+  Markdown:
+    code: 0
+    comments: 271
+    blanks: 136
+    files: 6
+total:
+  code: 5018
+  comments: 1081
+  blanks: 1158
+  files: 53
 ---
 date: "2026-08-24"
 repo:
