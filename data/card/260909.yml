@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.5.0"
   latestRelease: "v1.5.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:08:18Z
+  collectedAt: 2026-09-09T20:54:34Z
 timeline:
   created: 2018-01-28
   lastCommit: 2026-01-16
@@ -68,7 +68,7 @@ recent:
     openPR: 1
     closedIssue: 1
     openIssue: 4
-    commit: 6
+    commit: 0
   last720d:
     since: 2024-09-19
     release: 0
@@ -86,7 +86,7 @@ total:
   commit: 498
 ---
 path: /home/runner/.x-repo/github.com/github/git-sizer
-collectedAt: 2026-09-09T06:08:20Z
+collectedAt: 2026-09-09T20:54:36Z
 loc:
   Go:
     code: 4866
