@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1894380,
       "digest": null,
-      "download_count": 20263,
+      "download_count": 20266,
       "created_at": "2021-11-16T16:09:09Z",
       "updated_at": "2021-11-16T16:09:11Z",
       "browser_download_url": "https://github.com/github/git-sizer/releases/download/v1.5.0/git-sizer-1.5.0-darwin-arm64.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1904343,
       "digest": null,
-      "download_count": 8849,
+      "download_count": 8851,
       "created_at": "2021-11-16T16:09:11Z",
       "updated_at": "2021-11-16T16:09:13Z",
       "browser_download_url": "https://github.com/github/git-sizer/releases/download/v1.5.0/git-sizer-1.5.0-linux-386.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2002014,
       "digest": null,
-      "download_count": 146395,
+      "download_count": 146676,
       "created_at": "2021-11-16T16:09:13Z",
       "updated_at": "2021-11-16T16:09:16Z",
       "browser_download_url": "https://github.com/github/git-sizer/releases/download/v1.5.0/git-sizer-1.5.0-linux-amd64.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1994529,
       "digest": null,
-      "download_count": 11367,
+      "download_count": 11368,
       "created_at": "2021-11-16T16:09:16Z",
       "updated_at": "2021-11-16T16:09:18Z",
       "browser_download_url": "https://github.com/github/git-sizer/releases/download/v1.5.0/git-sizer-1.5.0-windows-386.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2065282,
       "digest": null,
-      "download_count": 28459,
+      "download_count": 28475,
       "created_at": "2021-11-16T16:09:18Z",
       "updated_at": "2021-11-16T16:09:20Z",
       "browser_download_url": "https://github.com/github/git-sizer/releases/download/v1.5.0/git-sizer-1.5.0-windows-amd64.zip"
