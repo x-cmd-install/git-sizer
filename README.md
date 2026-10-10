@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,082 · **Forks**: 200 · **Open issues**: 62 · **Contributors**: 237
+- **Stars**: 4,080 · **Forks**: 200 · **Open issues**: 62 · **Contributors**: 237
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 1 | 3 | 0 | 0 | 2 |
-| last60d | 2026-08-10 | 0 | 1 | 3 | 0 | 1 | 3 |
-| 90d | 2026-07-11 | 0 | 1 | 3 | 0 | 1 | 3 |
-| last180d | 2026-04-12 | 0 | 1 | 4 | 0 | 1 | 3 |
-| 360d | 2025-10-14 | 0 | 4 | 4 | 1 | 3 | 9 |
-| last720d | 2024-10-19 | 0 | 5 | 7 | 2 | 6 | 15 |
+| 30d | 2026-09-10 | 0 | 0 | 3 | 0 | 0 | 2 |
+| last60d | 2026-08-11 | 0 | 1 | 3 | 0 | 1 | 3 |
+| 90d | 2026-07-12 | 0 | 1 | 3 | 0 | 1 | 3 |
+| last180d | 2026-04-13 | 0 | 1 | 4 | 0 | 1 | 3 |
+| 360d | 2025-10-15 | 0 | 4 | 4 | 1 | 3 | 9 |
+| last720d | 2024-10-20 | 0 | 5 | 7 | 2 | 6 | 15 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for git-sizer lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T07:11:27Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:48:53Z._
