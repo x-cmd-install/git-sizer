@@ -31,8 +31,8 @@ Overall score: **5.8 / 10**
 Lowest-scoring checks:
 
 - **Maintained** (3/10) — 4 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 3
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,082 · **Forks**: 202 · **Open issues**: 62 · **Contributors**: 237
+- **Stars**: 4,081 · **Forks**: 202 · **Open issues**: 62 · **Contributors**: 237
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 0 | 3 | 0 | 0 | 2 |
-| last60d | 2026-08-13 | 0 | 1 | 3 | 0 | 1 | 3 |
-| 90d | 2026-07-14 | 0 | 1 | 3 | 0 | 1 | 3 |
-| last180d | 2026-04-15 | 0 | 1 | 4 | 0 | 1 | 3 |
-| 360d | 2025-10-17 | 0 | 4 | 4 | 1 | 3 | 9 |
-| last720d | 2024-10-22 | 0 | 5 | 7 | 2 | 6 | 15 |
+| 30d | 2026-09-13 | 0 | 0 | 3 | 0 | 0 | 2 |
+| last60d | 2026-08-14 | 0 | 1 | 3 | 0 | 1 | 3 |
+| 90d | 2026-07-15 | 0 | 1 | 3 | 0 | 1 | 3 |
+| last180d | 2026-04-16 | 0 | 1 | 4 | 0 | 1 | 3 |
+| 360d | 2025-10-18 | 0 | 4 | 4 | 1 | 3 | 9 |
+| last720d | 2024-10-23 | 0 | 5 | 7 | 2 | 6 | 15 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for git-sizer lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:09:48Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T08:20:36Z._
