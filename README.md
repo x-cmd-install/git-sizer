@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,086 · **Forks**: 202 · **Open issues**: 62 · **Contributors**: 236
+- **Stars**: 4,086 · **Forks**: 202 · **Open issues**: 62 · **Contributors**: 238
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 3 | 0 | 0 | 2 |
-| last60d | 2026-08-23 | 0 | 1 | 3 | 0 | 1 | 3 |
-| 90d | 2026-07-24 | 0 | 1 | 3 | 0 | 1 | 3 |
-| last180d | 2026-04-25 | 0 | 1 | 4 | 0 | 1 | 3 |
-| 360d | 2025-10-27 | 0 | 4 | 4 | 1 | 3 | 9 |
-| last720d | 2024-11-01 | 0 | 5 | 7 | 2 | 6 | 15 |
+| 30d | 2026-09-23 | 0 | 0 | 3 | 0 | 0 | 2 |
+| last60d | 2026-08-24 | 0 | 1 | 3 | 0 | 1 | 3 |
+| 90d | 2026-07-25 | 0 | 1 | 3 | 0 | 1 | 3 |
+| last180d | 2026-04-26 | 0 | 1 | 4 | 0 | 1 | 3 |
+| 360d | 2025-10-28 | 0 | 4 | 4 | 1 | 3 | 9 |
+| last720d | 2024-11-02 | 0 | 5 | 7 | 2 | 6 | 15 |
 
 ## Release assets
 
@@ -75,6 +75,23 @@ Lowest-scoring checks:
 | [git-sizer-1.5.0-windows-386.zip](https://github.com/github/git-sizer/releases/download/v1.5.0/git-sizer-1.5.0-windows-386.zip) | 1.9 MiB | `native/win/x64` |
 | [git-sizer-1.5.0-windows-amd64.zip](https://github.com/github/git-sizer/releases/download/v1.5.0/git-sizer-1.5.0-windows-amd64.zip) | 2.0 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **58** distros on [repology.org](https://repology.org/project/git-sizer). **47** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `1.5.0` | ✅ latest |
+| Debian 14 | `1.5.0` | ✅ latest |
+| Debian 13 | `1.5.0` | ✅ latest |
+| Ubuntu 26.04 LTS | `1.5.0` | ✅ latest |
+| Ubuntu 24.04 LTS | `1.5.0` | ✅ latest |
+| Arch | `1.5.0` | ✅ latest |
+| Homebrew | `1.5.0` | ✅ latest |
+| Nix unstable | `1.5.0` | ✅ latest |
+| Void | `1.5.0` | ✅ latest |
+| Alpine edge | `1.5.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for git-sizer lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `git-sizer` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +101,4 @@ Install metadata for git-sizer lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:48:05Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:56:40Z._
