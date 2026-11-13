@@ -14,15 +14,15 @@ x install git-sizer
 
 ## Code insight
 
-Total: **5,018** lines of code across **53** files in the top 5 languages.
+Total: **5,027** lines of code across **53** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 4,866 | 787 | 979 | 40 |
-| Sh | 80 | 6 | 14 | 2 |
+| Sh | 89 | 6 | 14 | 2 |
 | Makefile | 52 | 13 | 16 | 1 |
 | Bash | 20 | 4 | 13 | 4 |
-| Markdown | 0 | 271 | 136 | 6 |
+| Markdown | 0 | 267 | 132 | 6 |
 
 ## OpenSSF Scorecard
 
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.5.0` (2021-11-16)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-11-12
 - **Assets in release**: 6
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 58 · **Open PRs**: 9 · **Closed issues**: 49 · **Open issues**: 13 · **Commits**: 502
+- **Releases**: 6 · **Merged PRs**: 61 · **Open PRs**: 6 · **Closed issues**: 49 · **Open issues**: 13 · **Commits**: 513
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-13 | 0 | 0 | 3 | 0 | 0 | 2 |
-| 90d | 2026-08-14 | 0 | 1 | 3 | 0 | 1 | 3 |
-| last180d | 2026-05-16 | 0 | 1 | 4 | 0 | 1 | 3 |
-| 360d | 2025-11-17 | 0 | 4 | 4 | 1 | 3 | 9 |
-| last720d | 2024-11-22 | 0 | 5 | 7 | 2 | 6 | 15 |
+| 30d | 2026-10-14 | 0 | 1 | 0 | 0 | 0 | 6 |
+| last60d | 2026-09-14 | 0 | 3 | 0 | 0 | 0 | 10 |
+| 90d | 2026-08-15 | 0 | 4 | 0 | 0 | 1 | 11 |
+| last180d | 2026-05-17 | 0 | 4 | 1 | 0 | 1 | 11 |
+| 360d | 2025-11-18 | 0 | 7 | 1 | 1 | 3 | 17 |
+| last720d | 2024-11-23 | 0 | 8 | 4 | 2 | 6 | 26 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for git-sizer lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:58:20Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:13:02Z._
