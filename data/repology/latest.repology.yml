@@ -1,17 +1,69 @@
-- repo: raspbian_testing
-  subrepo: main
+- repo: nix_stable_24_11
   srcname: git-sizer
-  binnames:
-    - git-sizer
+  visiblename: git-sizer
+  version: 1.5.0
+  origversion: null
+  status: outdated
+  summary: Compute various size metrics for a Git repository
+  maintainers:
+    - mjbauer95@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: git-sizer
+  visiblename: git-sizer
+  version: 1.5.0
+  origversion: null
+  status: outdated
+  summary: Compute various size metrics for a Git repository
+  maintainers:
+    - mjbauer95@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: git-sizer
+  visiblename: git-sizer
+  version: 1.5.0
+  origversion: null
+  status: outdated
+  summary: Compute various size metrics for a Git repository
+  maintainers:
+    - mjbauer95@gmail.com
+  licenses:
+    - MIT
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: git-sizer
+  binname: git-sizer
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-3
-  status: newest
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - onlyjob@debian.org
-  categories:
-    - misc
+  status: outdated
+  summary: Compute various size metrics for a Git repository
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: git-sizer
+  binname: git-sizer
+  visiblename: git-sizer
+  version: 1.5.0
+  origversion: 1.5.0-3
+  status: outdated
+  summary: Compute various size metrics for a Git repository
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: git-sizer
+  binname: git-sizer
+  visiblename: git-sizer
+  version: 1.5.0
+  origversion: 1.5.0-3
+  status: outdated
+  summary: Compute various size metrics for a Git repository
+  licenses:
+    - MIT
 - repo: alpine_3_17
   subrepo: community
   srcname: git-sizer
@@ -19,7 +71,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-r13
-  status: newest
+  status: outdated
   summary: Compute various size metrics for a Git repository
   maintainers:
     - michal@polanski.me
@@ -32,19 +84,10 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-r18
-  status: newest
+  status: outdated
   summary: Compute various size metrics for a Git repository
   maintainers:
     - michal@polanski.me
-  licenses:
-    - MIT
-- repo: scoop
-  subrepo: main
-  binname: git-sizer
-  visiblename: git-sizer
-  version: 1.5.0
-  origversion: null
-  status: newest
   licenses:
     - MIT
 - repo: alpine_3_19
@@ -54,7 +97,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-r21
-  status: newest
+  status: outdated
   summary: Compute various size metrics for a Git repository
   maintainers:
     - michal@polanski.me
@@ -67,7 +110,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-r24
-  status: newest
+  status: outdated
   summary: Compute various size metrics for a Git repository
   maintainers:
     - michal@polanski.me
@@ -80,7 +123,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-r29
-  status: newest
+  status: outdated
   summary: Compute various size metrics for a Git repository
   maintainers:
     - michal@polanski.me
@@ -93,7 +136,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-r34
-  status: newest
+  status: outdated
   summary: Compute various size metrics for a Git repository
   maintainers:
     - michal@polanski.me
@@ -106,7 +149,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-r39
-  status: newest
+  status: outdated
   summary: Compute various size metrics for a Git repository
   maintainers:
     - michal@polanski.me
@@ -119,7 +162,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-r41
-  status: newest
+  status: outdated
   summary: Compute various size metrics for a Git repository
   maintainers:
     - michal@polanski.me
@@ -132,7 +175,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-r41
-  status: newest
+  status: outdated
   summary: Compute various size metrics for a Git repository
   maintainers:
     - michal@polanski.me
@@ -143,8 +186,8 @@
   srcname: git-sizer
   binname: git-sizer
   visiblename: git-sizer
-  version: 1.5.0
-  origversion: 1.5.0-3
+  version: 1.6.0
+  origversion: 1.6.0-1
   status: newest
   summary: Compute various size metrics for a Git repository
   licenses:
@@ -166,7 +209,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Compute various size metrics for a Git repository, flagging those that might cause problems
 - repo: debian_11
   subrepo: bullseye/main
@@ -190,12 +233,23 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-3
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - onlyjob@debian.org
   categories:
     - misc
+- repo: nix_stable_24_05
+  srcname: git-sizer
+  visiblename: git-sizer
+  version: 1.5.0
+  origversion: null
+  status: outdated
+  summary: Compute various size metrics for a Git repository
+  maintainers:
+    - mjbauer95@gmail.com
+  licenses:
+    - MIT
 - repo: debian_14
   subrepo: forky/main
   srcname: git-sizer
@@ -204,7 +258,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-3
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - onlyjob@debian.org
@@ -218,7 +272,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-3
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - onlyjob@debian.org
@@ -244,7 +298,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-3
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - onlyjob@debian.org
@@ -272,7 +326,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-3
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - onlyjob@debian.org
@@ -283,7 +337,7 @@
   visiblename: dev-vcs/git-sizer
   version: 1.5.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Compute various size metrics for a Git repository
   maintainers:
     - dlan@gentoo.org
@@ -301,12 +355,12 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Analyze size of a Git repo
 - repo: homebrew
   srcname: git-sizer
   visiblename: git-sizer
-  version: 1.5.0
+  version: 1.6.0
   origversion: null
   status: newest
   summary: Compute various size metrics for a Git repository
@@ -325,7 +379,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-3
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - onlyjob@debian.org
@@ -336,7 +390,7 @@
   visiblename: dev-vcs/git-sizer
   version: 1.5.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Compute various size metrics for a Git repository
   maintainers:
     - dlan@gentoo.org
@@ -353,7 +407,7 @@
   visiblename: dev-vcs/git-sizer
   version: 1.5.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Compute various size metrics for a Git repository
   maintainers:
     - dlan@gentoo.org
@@ -371,7 +425,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Compute various size metrics for a Git repository, flagging those that might cause problems
   maintainers:
     - gerardsoleca@github
@@ -379,89 +433,12 @@
     - MIT
   categories:
     - devel
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: git-sizer
-  binname: git-sizer
-  visiblename: git-sizer
-  version: 1.5.0
-  origversion: 1.5.0-3
-  status: newest
-  summary: Compute various size metrics for a Git repository
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: git-sizer
-  binname: git-sizer
-  visiblename: git-sizer
-  version: 1.5.0
-  origversion: 1.5.0-3
-  status: newest
-  summary: Compute various size metrics for a Git repository
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: git-sizer
-  binname: git-sizer
-  visiblename: git-sizer
-  version: 1.5.0
-  origversion: 1.5.0-3
-  status: newest
-  summary: Compute various size metrics for a Git repository
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: git-sizer
-  visiblename: git-sizer
-  version: 1.5.0
-  origversion: null
-  status: newest
-  summary: Compute various size metrics for a Git repository
-  maintainers:
-    - mjbauer95@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: git-sizer
-  visiblename: git-sizer
-  version: 1.5.0
-  origversion: null
-  status: newest
-  summary: Compute various size metrics for a Git repository
-  maintainers:
-    - mjbauer95@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: git-sizer
-  visiblename: git-sizer
-  version: 1.5.0
-  origversion: null
-  status: newest
-  summary: Compute various size metrics for a Git repository
-  maintainers:
-    - mjbauer95@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: git-sizer
-  visiblename: git-sizer
-  version: 1.5.0
-  origversion: null
-  status: newest
-  summary: Compute various size metrics for a Git repository
-  maintainers:
-    - mjbauer95@gmail.com
-  licenses:
-    - MIT
 - repo: nix_stable_26_05
   srcname: git-sizer
   visiblename: git-sizer
   version: 1.5.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Compute various size metrics for a Git repository
   maintainers:
     - fallback-mnt-nix@repology
@@ -472,7 +449,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Compute various size metrics for a Git repository
   maintainers:
     - fallback-mnt-nix@repology
@@ -485,7 +462,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-3
-  status: newest
+  status: outdated
   summary: Compute various size metrics for a Git repository
   licenses:
     - MIT
@@ -511,7 +488,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-3
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - onlyjob@debian.org
@@ -525,7 +502,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-3
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - onlyjob@debian.org
@@ -567,7 +544,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-3
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - onlyjob@debian.org
@@ -595,19 +572,42 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-3
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - onlyjob@debian.org
   categories:
     - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: git-sizer
+  binnames:
+    - git-sizer
+  visiblename: git-sizer
+  version: 1.5.0
+  origversion: 1.5.0-3
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - onlyjob@debian.org
+  categories:
+    - misc
+- repo: scoop
+  subrepo: main
+  binname: git-sizer
+  visiblename: git-sizer
+  version: 1.6.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
 - repo: termux
   srcname: git-sizer
   binname: git-sizer
   visiblename: git-sizer
   version: 1.5.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Compute various size metrics for a Git repository
   maintainers:
     - thunder-coding@termux.dev
@@ -640,20 +640,6 @@
   categories:
     - universe/misc
 - repo: ubuntu_24_04
-  subrepo: noble/universe
-  srcname: git-sizer
-  binnames:
-    - git-sizer
-  visiblename: git-sizer
-  version: 1.5.0
-  origversion: 1.5.0-3build1
-  status: newest
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - onlyjob@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_24_04
   subrepo: noble-updates/universe
   srcname: git-sizer
   binnames:
@@ -661,9 +647,23 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-3ubuntu0.24.04.3
-  status: newest
+  status: outdated
   maintainers:
     - ubuntu-devel-discuss@lists.ubuntu.com
+    - onlyjob@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: git-sizer
+  binnames:
+    - git-sizer
+  visiblename: git-sizer
+  version: 1.5.0
+  origversion: 1.5.0-3build1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
     - onlyjob@debian.org
   categories:
     - universe/misc
@@ -675,7 +675,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-3build1
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - onlyjob@debian.org
@@ -689,7 +689,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-3build1
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - onlyjob@debian.org
@@ -703,7 +703,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-3build2
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - onlyjob@debian.org
@@ -717,7 +717,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-3build2
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - onlyjob@debian.org
@@ -731,7 +731,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0-3build2
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - onlyjob@debian.org
@@ -744,7 +744,7 @@
   visiblename: git-sizer
   version: 1.5.0
   origversion: 1.5.0_7
-  status: newest
+  status: outdated
   summary: Compute various size metrics for a Git repository
   maintainers:
     - duncaen@voidlinux.org
