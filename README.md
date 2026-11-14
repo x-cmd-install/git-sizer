@@ -41,56 +41,56 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.5.0` (2021-11-16)
+- **Latest**: `v1.6.0` (2026-11-13)
 - **Last commit**: 2026-11-12
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 4,102 · **Forks**: 203 · **Open issues**: 62 · **Contributors**: 240
+- **Stars**: 4,102 · **Forks**: 203 · **Open issues**: 63 · **Contributors**: 240
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 61 · **Open PRs**: 6 · **Closed issues**: 49 · **Open issues**: 13 · **Commits**: 513
+- **Releases**: 7 · **Merged PRs**: 61 · **Open PRs**: 6 · **Closed issues**: 49 · **Open issues**: 14 · **Commits**: 513
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 1 | 0 | 0 | 0 | 6 |
-| last60d | 2026-09-14 | 0 | 3 | 0 | 0 | 0 | 10 |
-| 90d | 2026-08-15 | 0 | 4 | 0 | 0 | 1 | 11 |
-| last180d | 2026-05-17 | 0 | 4 | 1 | 0 | 1 | 11 |
-| 360d | 2025-11-18 | 0 | 7 | 1 | 1 | 3 | 17 |
-| last720d | 2024-11-23 | 0 | 8 | 4 | 2 | 6 | 26 |
+| 30d | 2026-10-15 | 1 | 1 | 0 | 0 | 1 | 6 |
+| last60d | 2026-09-15 | 1 | 3 | 0 | 0 | 1 | 10 |
+| 90d | 2026-08-16 | 1 | 4 | 0 | 0 | 2 | 11 |
+| last180d | 2026-05-18 | 1 | 4 | 1 | 0 | 2 | 11 |
+| 360d | 2025-11-19 | 1 | 7 | 1 | 1 | 4 | 17 |
+| last720d | 2024-11-24 | 1 | 8 | 4 | 2 | 7 | 26 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [git-sizer-1.5.0-darwin-amd64.zip](https://github.com/github/git-sizer/releases/download/v1.5.0/git-sizer-1.5.0-darwin-amd64.zip) | 1.9 MiB | `native/darwin/x64` |
-| [git-sizer-1.5.0-darwin-arm64.zip](https://github.com/github/git-sizer/releases/download/v1.5.0/git-sizer-1.5.0-darwin-arm64.zip) | 1.8 MiB | `native/darwin/arm64` |
-| [git-sizer-1.5.0-linux-386.zip](https://github.com/github/git-sizer/releases/download/v1.5.0/git-sizer-1.5.0-linux-386.zip) | 1.8 MiB | `other` |
-| [git-sizer-1.5.0-linux-amd64.zip](https://github.com/github/git-sizer/releases/download/v1.5.0/git-sizer-1.5.0-linux-amd64.zip) | 1.9 MiB | `native/linux/x64` |
-| [git-sizer-1.5.0-windows-386.zip](https://github.com/github/git-sizer/releases/download/v1.5.0/git-sizer-1.5.0-windows-386.zip) | 1.9 MiB | `native/win/x64` |
-| [git-sizer-1.5.0-windows-amd64.zip](https://github.com/github/git-sizer/releases/download/v1.5.0/git-sizer-1.5.0-windows-amd64.zip) | 2.0 MiB | `native/win/x64` |
+| [git-sizer-1.6.0-darwin-amd64.zip](https://github.com/github/git-sizer/releases/download/v1.6.0/git-sizer-1.6.0-darwin-amd64.zip) | 3.3 MiB | `native/darwin/x64` |
+| [git-sizer-1.6.0-darwin-arm64.zip](https://github.com/github/git-sizer/releases/download/v1.6.0/git-sizer-1.6.0-darwin-arm64.zip) | 3.1 MiB | `native/darwin/arm64` |
+| [git-sizer-1.6.0-linux-386.zip](https://github.com/github/git-sizer/releases/download/v1.6.0/git-sizer-1.6.0-linux-386.zip) | 3.2 MiB | `other` |
+| [git-sizer-1.6.0-linux-amd64.zip](https://github.com/github/git-sizer/releases/download/v1.6.0/git-sizer-1.6.0-linux-amd64.zip) | 3.3 MiB | `native/linux/x64` |
+| [git-sizer-1.6.0-windows-386.zip](https://github.com/github/git-sizer/releases/download/v1.6.0/git-sizer-1.6.0-windows-386.zip) | 3.2 MiB | `native/win/x64` |
+| [git-sizer-1.6.0-windows-amd64.zip](https://github.com/github/git-sizer/releases/download/v1.6.0/git-sizer-1.6.0-windows-amd64.zip) | 3.3 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **59** distros on [repology.org](https://repology.org/project/git-sizer). **48** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **59** distros on [repology.org](https://repology.org/project/git-sizer). **3** are ✅ on the latest upstream release, **54** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `1.5.0` | ✅ latest |
-| Debian 14 | `1.5.0` | ✅ latest |
-| Debian 13 | `1.5.0` | ✅ latest |
-| Ubuntu 26.04 LTS | `1.5.0` | ✅ latest |
-| Ubuntu 24.04 LTS | `1.5.0` | ✅ latest |
-| Arch | `1.5.0` | ✅ latest |
-| Homebrew | `1.5.0` | ✅ latest |
-| Nix unstable | `1.5.0` | ✅ latest |
-| Void | `1.5.0` | ✅ latest |
-| Alpine edge | `1.5.0` | ✅ latest |
+| Debian unstable | `1.5.0` | ⚠️ outdated |
+| Debian 14 | `1.5.0` | ⚠️ outdated |
+| Debian 13 | `1.5.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `1.5.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.5.0` | ⚠️ outdated |
+| Arch | `1.6.0` | ✅ latest |
+| Homebrew | `1.6.0` | ✅ latest |
+| Nix unstable | `1.5.0` | ⚠️ outdated |
+| Void | `1.5.0` | ⚠️ outdated |
+| Alpine edge | `1.5.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -101,4 +101,4 @@ Install metadata for git-sizer lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:13:02Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T08:18:28Z._
