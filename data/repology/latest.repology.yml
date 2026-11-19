@@ -1,17 +1,3 @@
-- repo: pureos_amber
-  subrepo: amber/main
-  srcname: git-sizer
-  binnames:
-    - git-sizer
-  visiblename: git-sizer
-  version: 1.3.0
-  origversion: 1.3.0+dfsg-1
-  status: outdated
-  maintainers:
-    - pkg-go-maintainers@lists.alioth.debian.org
-    - onlyjob@debian.org
-  categories:
-    - devel
 - repo: alpine_3_17
   subrepo: community
   srcname: git-sizer
@@ -38,6 +24,20 @@
     - michal@polanski.me
   licenses:
     - MIT
+- repo: raspbian_testing
+  subrepo: main
+  srcname: git-sizer
+  binnames:
+    - git-sizer
+  visiblename: git-sizer
+  version: 1.5.0
+  origversion: 1.5.0-3
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - onlyjob@debian.org
+  categories:
+    - misc
 - repo: alpine_3_19
   subrepo: community
   srcname: git-sizer
@@ -495,20 +495,6 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
-  srcname: git-sizer
-  binnames:
-    - git-sizer
-  visiblename: git-sizer
-  version: 1.5.0
-  origversion: 1.5.0-3
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - onlyjob@debian.org
-  categories:
-    - misc
-- repo: parrot
   subrepo: parrot-updates/main
   srcname: git-sizer
   binnames:
@@ -522,6 +508,34 @@
     - onlyjob@debian.org
   categories:
     - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: git-sizer
+  binnames:
+    - git-sizer
+  visiblename: git-sizer
+  version: 1.5.0
+  origversion: 1.5.0-3
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - onlyjob@debian.org
+  categories:
+    - misc
+- repo: pureos_amber
+  subrepo: amber/main
+  srcname: git-sizer
+  binnames:
+    - git-sizer
+  visiblename: git-sizer
+  version: 1.3.0
+  origversion: 1.3.0+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - onlyjob@debian.org
+  categories:
+    - devel
 - repo: pureos_byzantium
   subrepo: byzantium/main
   srcname: git-sizer
@@ -578,20 +592,6 @@
     - onlyjob@debian.org
   categories:
     - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: git-sizer
-  binnames:
-    - git-sizer
-  visiblename: git-sizer
-  version: 1.5.0
-  origversion: 1.5.0-3
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - onlyjob@debian.org
-  categories:
-    - misc
 - repo: scoop
   subrepo: main
   binname: git-sizer
@@ -605,9 +605,9 @@
   srcname: git-sizer
   binname: git-sizer
   visiblename: git-sizer
-  version: 1.5.0
+  version: 1.6.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Compute various size metrics for a Git repository
   maintainers:
     - thunder-coding@termux.dev
