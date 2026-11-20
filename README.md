@@ -37,7 +37,7 @@ Total: **5,027** lines of code across **53** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,107 · **Forks**: 203 · **Open issues**: 63 · **Contributors**: 238
+- **Stars**: 4,108 · **Forks**: 203 · **Open issues**: 63 · **Contributors**: 238
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **5,027** lines of code across **53** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 1 | 0 | 0 | 1 | 6 |
-| last60d | 2026-09-20 | 1 | 3 | 0 | 0 | 1 | 10 |
-| 90d | 2026-08-21 | 1 | 4 | 0 | 0 | 2 | 11 |
-| last180d | 2026-05-23 | 1 | 4 | 1 | 0 | 2 | 11 |
-| 360d | 2025-11-24 | 1 | 6 | 1 | 0 | 4 | 15 |
-| last720d | 2024-11-29 | 1 | 8 | 4 | 2 | 7 | 26 |
+| 30d | 2026-10-21 | 1 | 1 | 0 | 0 | 1 | 6 |
+| last60d | 2026-09-21 | 1 | 3 | 0 | 0 | 1 | 10 |
+| 90d | 2026-08-22 | 1 | 4 | 0 | 0 | 2 | 11 |
+| last180d | 2026-05-24 | 1 | 4 | 1 | 0 | 2 | 11 |
+| 360d | 2025-11-25 | 1 | 6 | 1 | 0 | 4 | 15 |
+| last720d | 2024-11-30 | 1 | 8 | 4 | 2 | 7 | 26 |
 
 ## Release assets
 
@@ -67,7 +67,7 @@ Total: **5,027** lines of code across **53** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **59** distros on [repology.org](https://repology.org/project/git-sizer). **6** are ✅ on the latest upstream release, **51** are ⚠️ on an older version.
+Reported by **59** distros on [repology.org](https://repology.org/project/git-sizer). **7** are ✅ on the latest upstream release, **50** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -77,8 +77,8 @@ Reported by **59** distros on [repology.org](https://repology.org/project/git-si
 | Ubuntu 26.04 LTS | `1.5.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.5.0` | ⚠️ outdated |
 | Arch | `1.6.0` | ✅ latest |
-| Homebrew | `1.6.0` | ✅ latest |
-| Nix unstable | `1.5.0` | ⚠️ outdated |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `1.6.0` | ✅ latest |
 | Void | `1.5.0` | ⚠️ outdated |
 | Alpine edge | `1.5.0` | ⚠️ outdated |
 
@@ -91,4 +91,4 @@ Install metadata for git-sizer lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T10:16:09Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T10:15:04Z._
