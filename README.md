@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.6.0` (2026-11-13)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-25
 - **Assets in release**: 6
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 61 · **Open PRs**: 7 · **Closed issues**: 49 · **Open issues**: 14 · **Commits**: 513
+- **Releases**: 7 · **Merged PRs**: 63 · **Open PRs**: 6 · **Closed issues**: 49 · **Open issues**: 14 · **Commits**: 517
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 1 | 1 | 0 | 1 | 6 |
-| last60d | 2026-09-26 | 1 | 3 | 1 | 0 | 1 | 10 |
-| 90d | 2026-08-27 | 1 | 4 | 1 | 0 | 2 | 11 |
-| last180d | 2026-05-29 | 1 | 4 | 2 | 0 | 2 | 11 |
-| 360d | 2025-11-30 | 1 | 6 | 2 | 0 | 4 | 14 |
-| last720d | 2024-12-05 | 1 | 8 | 5 | 2 | 7 | 26 |
+| 30d | 2026-10-27 | 1 | 3 | 0 | 0 | 1 | 8 |
+| last60d | 2026-09-27 | 1 | 5 | 0 | 0 | 1 | 12 |
+| 90d | 2026-08-28 | 1 | 6 | 0 | 0 | 2 | 13 |
+| last180d | 2026-05-30 | 1 | 6 | 1 | 0 | 2 | 13 |
+| 360d | 2025-12-01 | 1 | 7 | 1 | 0 | 4 | 16 |
+| last720d | 2024-12-06 | 1 | 10 | 4 | 2 | 7 | 30 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for git-sizer lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:22:09Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T10:24:36Z._
