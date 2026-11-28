@@ -18,7 +18,7 @@ x install git-sizer
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 4,866 | 787 | 979 | 40 |
+| Go | 4,866 | 786 | 978 | 40 |
 | Sh | 89 | 6 | 14 | 2 |
 | Makefile | 52 | 13 | 16 | 1 |
 | Bash | 20 | 4 | 13 | 4 |
@@ -42,7 +42,7 @@ x install git-sizer
 ## 发布
 
 - **最新版本**: `v1.6.0` (2026-11-13)
-- **最近提交**: 2026-11-25
+- **最近提交**: 2026-11-27
 - **Release 含资产**: 6 个
 
 ## 流行度
@@ -51,18 +51,18 @@ x install git-sizer
 
 ## 累计统计
 
-- **发布数**: 7 · **已合并 PR**: 63 · **开放 PR**: 6 · **已关闭 issue**: 49 · **开放 issue**: 14 · **提交数**: 517
+- **发布数**: 7 · **已合并 PR**: 64 · **开放 PR**: 6 · **已关闭 issue**: 50 · **开放 issue**: 13 · **提交数**: 521
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 3 | 0 | 0 | 1 | 8 |
-| last60d | 2026-09-28 | 1 | 5 | 0 | 0 | 1 | 12 |
-| 90d | 2026-08-29 | 1 | 6 | 0 | 0 | 2 | 13 |
-| last180d | 2026-05-31 | 1 | 6 | 1 | 0 | 2 | 13 |
-| 360d | 2025-12-02 | 1 | 7 | 1 | 0 | 4 | 16 |
-| last720d | 2024-12-07 | 1 | 10 | 4 | 2 | 7 | 30 |
+| 30d | 2026-10-29 | 1 | 4 | 0 | 1 | 0 | 11 |
+| last60d | 2026-09-29 | 1 | 6 | 0 | 1 | 0 | 15 |
+| 90d | 2026-08-30 | 1 | 7 | 0 | 1 | 1 | 16 |
+| last180d | 2026-06-01 | 1 | 7 | 1 | 1 | 1 | 16 |
+| 360d | 2025-12-03 | 1 | 8 | 1 | 1 | 3 | 19 |
+| last720d | 2024-12-08 | 1 | 11 | 4 | 3 | 6 | 34 |
 
 ## Release 资产
 
@@ -75,6 +75,23 @@ x install git-sizer
 | [git-sizer-1.6.0-windows-386.zip](https://github.com/github/git-sizer/releases/download/v1.6.0/git-sizer-1.6.0-windows-386.zip) | 3.2 MiB | `native/win/x64` |
 | [git-sizer-1.6.0-windows-amd64.zip](https://github.com/github/git-sizer/releases/download/v1.6.0/git-sizer-1.6.0-windows-amd64.zip) | 3.3 MiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/git-sizer) 上共有 **57** 个发行版报告此项目。**9** 个 ✅ 已是最新上游版本，**46** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `1.5.0` | ⚠️ outdated |
+| Debian 14 | `1.5.0` | ⚠️ outdated |
+| Debian 13 | `1.5.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `1.5.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.5.0` | ⚠️ outdated |
+| Arch | `1.6.0` | ✅ latest |
+| Homebrew | `1.6.0` | ✅ latest |
+| Nix unstable | `1.6.0` | ✅ latest |
+| Void | `1.5.0` | ⚠️ outdated |
+| Alpine edge | `1.6.0` | ✅ latest |
+
 ## 改进这些数据
 
 git-sizer 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `git-sizer` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -84,4 +101,4 @@ git-sizer 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261127.yml` · 2026-11-27T10:36:40Z._
+_数据快照: `data/card/261128.yml` · 2026-11-28T08:49:19Z._
